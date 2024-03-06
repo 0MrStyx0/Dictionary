@@ -1,0 +1,15 @@
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\bin\Debug\net7.0\ProjectDictionary.exe
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\bin\Debug\net7.0\ProjectDictionary.deps.json
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\bin\Debug\net7.0\ProjectDictionary.runtimeconfig.json
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\bin\Debug\net7.0\ProjectDictionary.dll
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\bin\Debug\net7.0\ProjectDictionary.pdb
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ProjectDictionary.csproj.AssemblyReference.cache
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ProjectDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ProjectDictionary.AssemblyInfoInputs.cache
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ProjectDictionary.AssemblyInfo.cs
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ProjectDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ProjectDictionary.dll
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\refint\ProjectDictionary.dll
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ProjectDictionary.pdb
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ProjectDictionary.genruntimeconfig.cache
+C:\Users\Dovla_nd00\C#\ProjectDictionary\ProjectDictionary\obj\Debug\net7.0\ref\ProjectDictionary.dll

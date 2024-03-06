@@ -1,0 +1,15 @@
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\bin\Debug\net8.0\ProjectDictionary.exe
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\bin\Debug\net8.0\ProjectDictionary.deps.json
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\bin\Debug\net8.0\ProjectDictionary.runtimeconfig.json
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\bin\Debug\net8.0\ProjectDictionary.dll
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\bin\Debug\net8.0\ProjectDictionary.pdb
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ProjectDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ProjectDictionary.AssemblyInfoInputs.cache
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ProjectDictionary.AssemblyInfo.cs
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ProjectDictionary.csproj.CoreCompileInputs.cache
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ProjectDictionary.sourcelink.json
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ProjectDictionary.dll
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\refint\ProjectDictionary.dll
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ProjectDictionary.pdb
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ProjectDictionary.genruntimeconfig.cache
+C:\Users\PK\C#\Projects\Dictionary\ProjectDictionary\ProjectDictionary\obj\Debug\net8.0\ref\ProjectDictionary.dll
