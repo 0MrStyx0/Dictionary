@@ -1,8 +1,12 @@
 ﻿using ProjectDictionary.ClassDataStore;
 using ProjectDictionary.ClassDictionary;
 using ProjectDictionary.ClassOperation;
+using ProjectDictionary.ClassPathes;
 
 DataStore storage = new DataStore();
+Pathes pathes = new Pathes();
+
+Operation.LoadData(ref storage, ref pathes);
 
 while (true)
 {
@@ -18,7 +22,7 @@ while (true)
         switch (choice)
         {
             case 1:
-                Operation.CreateDictionary(ref storage);
+                Operation.CreateDictionary(ref storage, ref pathes);
                 break;
 
             case 2:
@@ -26,7 +30,7 @@ while (true)
                 break;
 
             case 3:
-                Operation.DeleteDictionary(ref storage);
+                Operation.DeleteDictionary(ref storage, ref pathes);
                 break;
 
             case 4:
@@ -58,6 +62,7 @@ while (true)
                 break;
 
             case 11:
+                Operation.SaveData(ref storage, ref pathes);
                 Console.Clear();
                 return;
 

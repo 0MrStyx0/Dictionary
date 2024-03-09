@@ -11,6 +11,7 @@ namespace ProjectDictionary.ClassDictionary
     {
         public List<Words> Words { get; } = new List<Words>();
 
+        public string Path { get; set; }
         public string MainLanguage {  get; set; }
 
         private static int num = 0;
